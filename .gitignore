@@ -103,6 +103,11 @@ Thumbs.db
 uploads/
 extensions/*/node_modules/
 
+node_modules/
+jspm_packages/
+
 # Extension specific
 *.tgz
 *.zip
+
+package-lock.json
