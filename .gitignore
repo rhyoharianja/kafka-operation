@@ -111,3 +111,4 @@ jspm_packages/
 *.zip
 
 package-lock.json
+dist/
